@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CitizenSpace</string>
+    <string name="add_item" />
+    <string name="name_hint">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_occupation">Enter Occupation</string>
+    <string name="add_citizen">Add</string>
+    <string name="Marital_Status">Marital Status</string>
+</resources>
